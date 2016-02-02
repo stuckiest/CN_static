@@ -1,0 +1,109 @@
+
+/*styles for index page*/
+
+
+/*put padding at top of body so navbar doesn't cover photo*/
+body{
+	padding-top: 50px;
+}
+
+/*setting styles for the navbar*/
+.fabbynavvy{
+background-color: #F8D467;
+border-style: none;
+}
+
+.navright{
+	text-align: right;
+}
+
+.bree{
+	font-family: 'Bree Serif', serif;
+}
+
+.lobster{
+	font-family: 'Lobster', cursive;
+}
+
+#sunrise{
+  background-image: url("sunrise_cropped.jpg");
+  background-repeat: no-repeat;
+  height: 565px;
+  background-position: 0% 0%;
+  background-color: #F8D467;
+  margin: -15px;
+}
+
+#quotecontainer{
+	position: absolute;
+	bottom: 20%;
+	left: 6%;
+}
+
+#floatquote{
+	color: white;
+	font-family: 'Lobster', cursive;
+	font-size: 43px;
+}
+
+.row-eq-height{
+	display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bigfont{
+	font-size: 16px;
+}
+
+#bigname{
+	font-size: 45px;
+}
+
+.bigmargin{
+	margin: 6%;
+}
+
+#caseyface{
+	position: relative;
+	top: 10%;
+}
+
+.caseyfacemargin{
+	margin-top: 7%;
+	margin-left: 4%;
+}
+
+.footer{
+	background-color: #F8D467;
+	border-style: none;
+	margin-top: -1px;
+}
+
+.copyright{
+	font-size: 10px;
+	padding-left: 25px;
+}
+
+.orangebackground{
+	background-color: #E0872E;
+}
+
+.greybackground{
+	background-color: #E0872E;
+/*	height: 100px;
+*/}
+
+
+
+/*a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: yellow;
+	text-decoration: none;
+}*/
